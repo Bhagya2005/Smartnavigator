@@ -7,7 +7,7 @@ improving accessibility and automation.
 - Responsive UI/UX Design: Designed a mobile-friendly interface, ensuring seamless user experience across 3 various devices.
 
 ## Demo 🎥  
-<video src="https://raw.githubusercontent.com/Bhagya2005/Smartnavigator/main/demo.mp4" controls autoplay loop width="600"></video>
+<video src="https://github.com/Bhagya2005/Smartnavigator/main/demo.mp4" controls autoplay loop width="600"></video>
 
 ## Tech Stack 🛠️
 - React.js , TypeScript, HTML ,Tailwind CSS
